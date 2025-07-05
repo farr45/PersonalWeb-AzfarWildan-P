@@ -58,7 +58,7 @@ Website ini dibuat menggunakan:
 ## 📸 Screenshot Tampilan
 
 ### 🏠 Halaman Utama
-![Halaman Utama](images/halaman_utama.png)
+![Halaman Utama](images/Screenshot/Beranda.png)
 
 ### 🖼️ Galeri Foto
 ![Galeri](images/galeri.png)
