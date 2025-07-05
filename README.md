@@ -70,7 +70,7 @@ Website ini dibuat menggunakan:
 ![Dashboard](Screenshot/Dasboard.png)
 
 ### ✍️ Tambah Artikel
-![Tambah Artikel](images/tambah_artikel.png)
+![Tambah Artikel](Screenshot/Kelola artikel.png)
 
 ### 🔧 Kelola About
 ![Kelola About](images/about_admin.png)
