@@ -61,7 +61,7 @@ Website ini dibuat menggunakan:
 ![Halaman Utama](images/Screenshot/Beranda.png)
 
 ### 🖼️ Galeri Foto
-![Galeri](images/galeri.png)
+![Galeri](Screenshot/Gallery.png)
 
 ### 🔐 Login Admin
 ![Login Admin](images/login.png)
