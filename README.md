@@ -1,7 +1,7 @@
 # PersonalWeb-AzfarWildan-P
 # Personal Web | Azfar D1A240026
 
-Selamat datang di proyek **Personal Web** milik Azfar Faturrahman.  
+Selamat datang di proyek **Personal Web** milik Azfar Wildan P
 Website ini dibuat sebagai tugas proyek mata kuliah pengembangan web dan berfungsi sebagai **media berbagi cerita, galeri pribadi, dan latihan CRUD dengan PHP & MySQL**.
 
 ---
