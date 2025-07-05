@@ -64,7 +64,7 @@ Website ini dibuat menggunakan:
 ![Galeri](Screenshot/Gallery.png)
 
 ### 🔐 Login Admin
-![Login Admin](images/login.png)
+![Login Admin](Screenshot/Admin.png)
 
 ### 📊 Dashboard Admin
 ![Dashboard](images/dashboard.png)
